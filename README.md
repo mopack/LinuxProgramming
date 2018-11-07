@@ -1,6 +1,6 @@
 # Linux Program Practice
 
-* I learn lunux by a book called, "Understanding UNIX/LINUX Programming: A Guide to Theory and Practice."  
+* I learn Linux by a book called, "Understanding UNIX/LINUX Programming: A Guide to Theory and Practice."  
 
 * I used the Ubuntu operation system, and practice programming by C language.
 
