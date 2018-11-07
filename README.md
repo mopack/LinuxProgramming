@@ -1,4 +1,4 @@
-# Lunux Learning
+# Linux Program Practice
 
 * I learn lunux by a book called, "Understanding UNIX/LINUX Programming: A Guide to Theory and Practice."  
 
